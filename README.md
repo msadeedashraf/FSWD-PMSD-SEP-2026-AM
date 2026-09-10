@@ -102,6 +102,7 @@ Includes:
 ## 4. Containers
 
 * Lightweight environments (Docker)
+![container](/New-Assets/vm-vs-containers-02.png)
 
 ### Pros
 

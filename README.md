@@ -102,7 +102,11 @@ Includes:
 ## 4. Containers
 
 * Lightweight environments (Docker)
+
+[What is Containerization?](https://aws.amazon.com/what-is/containerization/)
+
 ![container](/New-Assets/vm-vs-containers-02.png)
+
 
 ### Pros
 

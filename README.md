@@ -131,6 +131,12 @@ Cloud = Infrastructure delivered over the internet (pay-as-you-go)
 
 ---
 
+## Visiting a Datacenter
+
+[Datacenter](https://datacenters.microsoft.com/tour/operations-room/)
+
+---
+
 # Day - 3
 
 # 🔄 Software Development Lifecycle (SDLC)
@@ -188,6 +194,10 @@ Different systems require different planning approaches.
 * Infrastructure projects
 * Stable environments
 
+
+![SDLC](/Assets/SDLC.png)
+![SDLC](/Assets/PMP.png)
+
 ---
 
 ## Agile Methodology
@@ -203,7 +213,33 @@ Different systems require different planning approaches.
 * Cloud systems
 * Modern applications
 
+## Kanban
+
+![Kanban](/Assets/kanban/1.jpg)
+![Kanban](/Assets/kanban/2.jpg)
+![Kanban](/Assets/kanban/3.jpg)
+![Kanban](/Assets/kanban/4.jpg)
+
+## Lean
+
+![Lean](/Assets/lean/1.jpg)
+![Lean](/Assets/lean/2.jpg)
+![Lean](/Assets/lean/3.jpg)
+![Lean](/Assets/lean/4.jpg)
+![Lean](/Assets/lean/5.jpg)
+![Lean](/Assets/lean/6.jpg)
+
+
+## Extreme
+
+![Extreme](/Assets/extreme/1.jpg)
+![Extreme](/Assets/extreme/2.jpg)
+![Extreme](/Assets/extreme/3.jpg)
+![Extreme](/Assets/extreme/4.jpg)
+
 ---
+
+
 
 ## Key Comparison
 

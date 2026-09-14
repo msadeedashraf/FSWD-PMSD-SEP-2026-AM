@@ -276,15 +276,15 @@ Different systems require different planning approaches.
 * Supports Agile workflows
 
 
-[Jira](https://www.atlassian.com/software/jira)
-[Jira Learning Cummunity](https://community.atlassian.com/learning)
-[Jira Tutorials](https://www.atlassian.com/agile/tutorials)
-[Scrum with Jira](https://www.atlassian.com/agile/tutorials/how-to-do-scrum-with-jira)
+- [Jira](https://www.atlassian.com/software/jira)
+- [Jira Learning Cummunity](https://community.atlassian.com/learning)
+- [Jira Tutorials](https://www.atlassian.com/agile/tutorials)
+- [Scrum with Jira](https://www.atlassian.com/agile/tutorials/how-to-do-scrum-with-jira)
 
 
 
-[Getting Started](https://www.atlassian.com/software/jira/guides/getting-started/basics)
-[Intro To Jira](https://www.youtube.com/playlist?list=PLaD4FvsFdarRogP7SgGhTYUlw2pm2X8Er)
+- [Getting Started](https://www.atlassian.com/software/jira/guides/getting-started/basics)
+- [Intro To Jira](https://www.youtube.com/playlist?list=PLaD4FvsFdarRogP7SgGhTYUlw2pm2X8Er)
 
 
 
